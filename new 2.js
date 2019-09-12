@@ -1,1 +1,1 @@
-alert("Test purpose only");
+<script>alert("Test purpose only");</script>
