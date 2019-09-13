@@ -1,1 +1,1 @@
-alert("Test purpose only");
+alert(window.location.href);
